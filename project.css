@@ -1,0 +1,36 @@
+button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+body{
+    margin:0;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.registration-box{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px auto;
+    width: 400px;
+}
+label{
+    color: black;
+}
+input{
+    outline: none;
+}
+button:hover{
+    background-color: green;
+}
+p{
+    line-height: normal;
+}
